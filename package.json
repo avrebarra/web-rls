@@ -1,6 +1,6 @@
 {
   "name": "realtime-location-sharing",
-  "description" : "A realtime location sharing system made with Node, Express, and Socket.io.",
+  "description": "A realtime location sharing system made with Node, Express, and Socket.io.",
   "version": "1.0.0",
   "private": true,
   "scripts": {
