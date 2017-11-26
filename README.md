@@ -1,5 +1,5 @@
-## Web-RLS (Realtime Location Sharing using WebSocket)
-Realtime location sharing made with Node, Express, ReactJS, and Socket.io **that is built without using any database**
+# Web-RLS (WebSocket Realtime Location Sharing)
+Realtime location sharing made with Node, Express, ReactJS, and Socket.io. Built without using any database.
 
 See working app at: https://web-rls.herokuapp.com/ (hosted on heroku free gear)
 
@@ -9,7 +9,10 @@ In this experiment, I'm trying to make a location sharing app that could functio
 ### Stacks Used
 In this project these stacks are used:
 - JavaScript
+- NodeJS
+- ExpressJS
 - ReactJS
+- HTML5 GeolocationAPI
 - SocketIO
 - Google Map React Component
 
@@ -20,7 +23,7 @@ For the first draft version:
 3. Experiment on it! (Try changing the name, the room, and overriding location using developer tools)
 
 ### Issues
-* Compatibility issue on some mobile browsers
+* Possible compatibility issues on some mobile browsers
 
 ### Something is Missing?
 If you have ideas for more that should be on this app or documentation, [let us know](https://github.com/shrotavre/web-rls/issues) or contribute some!
